@@ -54,9 +54,8 @@ Wenn keine Tabelle aktiviert ist oder der Spielleiter die Tabellen nicht verwend
 Nach dem Würfeln auf einer Patzertabelle wird angezeigt:
 
 1. **Tabellenname**: Aus welcher Tabelle gewürfelt wurde
-2. **Würfelergebnis**: Die gewürfelte Zahl
-3. **Auswirkung**: Die Beschreibung aus der Tabelle
-4. **Effekt-Button**: Falls die Auswirkung einen Spieleffekt hat
+2. **Auswirkung**: Die Beschreibung aus der Tabelle
+3. **Effekt-Button**: Falls die Auswirkung einen Spieleffekt hat
 
 ![Patzer Ergebnis](de/images/de-botch-tabellen-ergebnis.webp)
 
@@ -95,3 +94,4 @@ Bei waffenlosen Kämpfern (Raufen) werden die Tabellenergebnisse angepasst:
 - [Kampf](de-kampf.md)
 - [Waffenbeschädigung](de-waffen-und-ruestungsbeschadigung.md)
 - [Zustände](de-status-selbst-erstellen.md)
+
