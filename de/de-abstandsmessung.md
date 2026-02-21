@@ -23,19 +23,17 @@ Das DPS kann global oder pro Szene aktiviert werden:
 
 1. Öffne die **Spieleinstellungen** (Zahnrad-Symbol)
 2. Wähle **Einstellungen anpassen**
-3. Suche unter **DSA5** die Option **DPS aktivieren**
-4. Aktiviere die Checkbox
+3. Suche unter **Das Schwarze Auge/ The Dark Eye (5th Edition)** die Option **DPS aktivieren**
+4. Aktiviere / Deaktiviere die Checkbox
 
 ### Pro Szene
 
 Das DPS kann auch für einzelne Szenen überschrieben werden:
 
-1. Öffne die **Szeneneinstellungen** (Rechtsklick auf Szene > Konfigurieren)
-2. Im DSA5-Bereich findest du die Option **DPS für diese Szene**
-3. Wähle zwischen:
-   - **Standard** (globale Einstellung verwenden)
-   - **Aktiviert**
-   - **Deaktiviert**
+1. Öffne das **Meister Menü** (in der linken Seiteleiste zunächst das Symbol mit dem Auge drücken (= DSA menü)
+2. Im Meister Menü den Reiter **Szeneneinstellung** auswählen
+3. Im **Automatisierung** kann die Option **DPS aktivieren** ausgewählt werden 
+4. Aktiviere / Deaktiviere die Checkbox
 
 ![DPS Einstellungen](de/images/de-abstandsmessung-einstellungen.webp)
 
@@ -109,3 +107,4 @@ Mit aktiviertem DPS werden Ziele automatisch geprüft:
 - [Fernkampf](de-kampf.md#fernkampf)
 - [Sicht und Licht](de-sicht-und-licht.md)
 - [Szeneneinstellungen](de-szene.md)
+
