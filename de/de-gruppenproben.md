@@ -21,8 +21,8 @@ Bei einer Gruppenprobe würfeln mehrere Charaktere nacheinander auf dasselbe Tal
 ### Über das Meister-Menü
 
 1. Öffne das **Meister-Menü** (Taste **M**)
-2. Klicke auf **Gruppenprobe**
-3. Wähle das gewünschte Talent aus der Liste
+2. Wähle das gewünschte Talent aus der Liste
+3. Klicke auf **Gruppenprobe**
 4. Stelle den Modifikator ein (falls benötigt)
 5. Klicke auf **OK**
 
@@ -126,3 +126,4 @@ Bei DSA5 erschweren misslungene Proben die nachfolgenden Würfe:
 ---
 
 *[x]Zuletzt bearbeitet: 14.12.2025*
+
